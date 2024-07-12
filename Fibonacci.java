@@ -1,4 +1,4 @@
-package AlgorithmsAndDataSructures;
+package AlgorithmsAndDataStructures;
 import java.util.Arrays;
 
 public class Fibonacci {
